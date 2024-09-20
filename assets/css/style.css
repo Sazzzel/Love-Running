@@ -36,3 +36,7 @@ main{
 footer{
     background-color: orange;
 }
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
